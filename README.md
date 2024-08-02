@@ -22,6 +22,7 @@ Run the `motion_detection.py` script to start the real_time object tracking appl
    ```sh
    python motion_detection.py
 ```
+![Screenshot_2](https://github.com/user-attachments/assets/ca128c5b-c987-459a-bb71-3640f943576c)
 
 ## Features
 - Motion Detection: Detects and highlights moving objects in the video feed
